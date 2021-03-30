@@ -1,4 +1,4 @@
-# aeventi
+# AEventi
 
 A new Flutter project.
 
